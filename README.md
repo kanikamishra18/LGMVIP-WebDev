@@ -1,0 +1,2 @@
+# LGMVIP-Webdev
+This the the repo of all the tasks done by me during the internship period of LetsGrowMore. Basically we are given 3 tasks and we must complete at least 2 of them during the internship period of 1 month. First task is based on designing a single page website by HTML, CSS, JAVASCRIPT only. Second task is based on API integration and displaying the data in a card using any tech stack. Third task is a Full stack project which is a Result management system.
